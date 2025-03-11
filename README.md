@@ -116,3 +116,5 @@ All database operations include protection against SQL injection attacks using p
 ├── pom.xml                   # Maven configuration (if applicable)
 └── README.md                 # This file
 ```
+
+![alt text](image.png)
